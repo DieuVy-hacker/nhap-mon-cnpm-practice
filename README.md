@@ -1,10 +1,11 @@
-\# Repository Thực hành - Nhập môn CNPM
+# nhap-mon-cnpm-practice
+# Repository Thực hành - Nhập môn CNPM
 
 Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
 
-\## Thông tin sinh viên
+## Thông tin sinh viên
 
-\- \*\*Họ và tên:\*\* Trịnh Phương Diệu Vy
+- **Họ và tên:** Trịnh Phương Diệu Vy
 
-\- \*\*Mã số sinh viên:\*\* 25S1020117
+- **Mã số sinh viên:** 25S1020117
 
